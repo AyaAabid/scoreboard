@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Problem solving",
+    "objective": "Identifies and defines problems through the gathering of relevant information leading to the development of alternative solutions.",
+    "weigtage": "25"
+  },
+  {
+    "id": 2,
+    "name": "Communication Skill (Oral and Written)",
+    "objective": "The ability to deliver high quality and value-added advice, based on accurate and objective interpretation of needs, of the internal and/or external clients in order to increase the quality of administration.",
+    "weigtage": "25"
+  }
+]

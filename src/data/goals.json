@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "TTO",
+    "paramDef": "Misses in adherence of 5 min SLA forTickets per month",
+    "fqRep": "Monthly",
+    "calcMeth": "Count of 5 Mins SLA Missed tickets /Total count of Tickets handled",
+    "weigtage": "15",
+    "candidate": "IT Agent"
+  },
+  {
+    "id": 2,
+    "name": "TTR",
+    "paramDef": "Misses in adherence of 30 min SLA forTickets per month",
+    "fqRep": "Monthly",
+    "calcMeth": "Count of 30 Mins SLA Missed tickets /Total count of Tickets handled",
+    "weigtage":"15",
+    "candidate": "IT Agent"
+  }
+]

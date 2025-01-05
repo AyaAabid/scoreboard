@@ -1,0 +1,20 @@
+[
+  {
+    "biometric": "Agent_001",
+    "name": "Agent Rania",
+    "function": "IT Delivery Specialist",
+    "status": "Active"
+  },
+  {
+    "biometric": "Agent_002",
+    "name": "Agent Anthony",
+    "function": "IT Agent Performance",
+    "status": "Inactive"
+  },
+  {
+    "biometric": "Agent_003",
+    "name": "Agent Reda",
+    "function": "IT Lead",
+    "status": "Active"
+  }
+]
